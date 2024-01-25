@@ -17,7 +17,6 @@ Hello! I'm a 24-year-old Data Science student with a deep-rooted passion for sof
 
 - 📊 Data Science and Analytics
 - 💻 Software Engineering
-- 🎮 Games, Games and Games
 - 🧠 Artificial Intelligence and Machine Learning
 
 ## Journey So Far

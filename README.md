@@ -5,7 +5,7 @@
 ![Education](https://img.shields.io/badge/Education-Data%20Science-brightgreen)
 ![Background](https://img.shields.io/badge/Background-Theoretical%20Philosophy-lightgrey)
 
-Hello! I'm a 24-year-old Data Science student with a deep-rooted passion for software engineering, games, and all things computer science. Ever since my childhood, I've been captivated by the world of technology, and now, I'm navigating the realms of Data and AI.
+Hello! I'm a 25-year-old Data Science student with a deep-rooted passion for software engineering, games, and all things computer science. Ever since my childhood, I've been captivated by the world of technology, and now, I'm navigating the realms of Data and AI.
 
 ## About Me
 

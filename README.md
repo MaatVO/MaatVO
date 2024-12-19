@@ -1,7 +1,7 @@
 
 # Welcome to My Profile 👋
 
-![Age](https://img.shields.io/badge/Age-24-blueviolet)
+![Age](https://img.shields.io/badge/Age-25-blueviolet)
 ![Education](https://img.shields.io/badge/Education-Data%20Science-brightgreen)
 ![Background](https://img.shields.io/badge/Background-Theoretical%20Philosophy-lightgrey)
 

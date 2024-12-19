@@ -9,7 +9,7 @@ Hello! I'm a 25-year-old Data Science student with a deep-rooted passion for sof
 
 ## About Me
 
-- **Age:** 24
+- **Age:** 25
 - **Education:** Data Science
 - **Background:** Theoretical Philosophy
 
@@ -23,7 +23,7 @@ Hello! I'm a 25-year-old Data Science student with a deep-rooted passion for sof
 
 My journey began with a foundation in theoretical philosophy, exploring the intricacies of abstract ideas and critical thinking. Over time, my curiosity led me to the dynamic fields of Data Science, where each day is a challenge and neural networks fights to achieve the best metrics in order to bring us towards the future.
 
-Now, as a Data Science student, I'm delving into the fascinating world of data, analytics, and artificial intelligence. I am passionate about leveraging data to derive meaningful insights and contribute to the advancement of AI.
+Now, as a Data Scientist, I'm delving into the fascinating world of data, analytics, and artificial intelligence. I am passionate about leveraging data to derive meaningful insights and contribute to the advancement of AI.
 
 ## Let's Connect!
 

@@ -5,11 +5,11 @@
 ![Education](https://img.shields.io/badge/Education-Data%20Science-brightgreen)
 ![Background](https://img.shields.io/badge/Background-Theoretical%20Philosophy-lightgrey)
 
-Hello! I'm a 25-year-old Data Science student with a deep-rooted passion for software engineering, games, and all things computer science. Ever since my childhood, I've been captivated by the world of technology, and now, I'm navigating the realms of Data and AI.
+Hello! I'm a 26-year-old Data Scientist with a deep-rooted passion for software engineering, games, and all things computer science. Ever since my childhood, I've been captivated by the world of technology, and now, I'm navigating the realms of Data and AI.
 
 ## About Me
 
-- **Age:** 25
+- **Age:** 26
 - **Education:** Data Science
 - **Background:** Theoretical Philosophy
 
@@ -34,6 +34,6 @@ Feel free to reach out and connect—I look forward to exploring the intersectio
 ## Contact Me
 
 - 📧 Email: mattia.varagnolo@gmail.com
-- 💼 LinkedIn: [Mattia Varagnolo](https://www.linkedin.com/in/mattiavaragnolo/)
+- 💼 LinkedIn: [Mattia Varagnolo](https://www.linkedin.com/in/MaatVO)
 
 Thanks for stopping by, and let's embark on this exciting journey of learning and discovery together! 🚀✨

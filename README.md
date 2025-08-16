@@ -34,6 +34,6 @@ Feel free to reach out and connect—I look forward to exploring the intersectio
 ## Contact Me
 
 - 📧 Email: mattia.varagnolo@gmail.com
-- 💼 LinkedIn: [Mattia Varagnolo](https://www.linkedin.com/in/MaatVO)
+- 💼 LinkedIn: [Mattia Varagnolo](https://www.linkedin.com/in/mattiavaragnolo)
 
 Thanks for stopping by, and let's embark on this exciting journey of learning and discovery together! 🚀✨

@@ -1,15 +1,13 @@
 
 # Welcome to My Profile 👋
 
-![Age](https://img.shields.io/badge/Age-25-blueviolet)
 ![Education](https://img.shields.io/badge/Education-Data%20Science-brightgreen)
 ![Background](https://img.shields.io/badge/Background-Theoretical%20Philosophy-lightgrey)
 
-Hello! I'm a 26-year-old Data Scientist with a deep-rooted passion for software engineering, games, and all things computer science. Ever since my childhood, I've been captivated by the world of technology, and now, I'm navigating the realms of Data and AI.
+Hello! I'm a Data Scientist with a deep-rooted passion for software engineering, games, and all things computer science.
 
 ## About Me
 
-- **Age:** 26
 - **Education:** Data Science
 - **Background:** Theoretical Philosophy
 

@@ -20,13 +20,11 @@
 defaults:
   - background: theoretical_philosophy
   - education: msc_data_science
-  - previously: it_business_analyst
   - override hydra/launcher: submitit_slurm   # everything ends up on HPC eventually
   - _self_
 
 name: Mattia Varagnolo
 role: data_scientist
-employer: fbk/dsip            # Fondazione Bruno Kessler, Trento
 specialization: time_series_forecasting
 domains: [weather, climate, hydrology]
 loss: mse                     # usually

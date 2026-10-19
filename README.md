@@ -1,37 +1,80 @@
+<h1 align="center">Hi, I'm Mattia 👋</h1>
 
-# Welcome to My Profile 👋
+<p align="center">
+  <i>I studied philosophy and read Hume on why the future needn't resemble the past.<br>
+  Now I get paid to bet that it will.</i>
+</p>
 
-![Education](https://img.shields.io/badge/Education-Data%20Science-brightgreen)
-![Background](https://img.shields.io/badge/Background-Theoretical%20Philosophy-lightgrey)
+<p align="center">
+  <img src="https://img.shields.io/badge/background-theoretical_philosophy-lightgrey" alt="background: theoretical philosophy">
+  <img src="https://img.shields.io/badge/focus-time_series_forecasting-brightgreen" alt="focus: time series forecasting">
+  <img src="https://img.shields.io/badge/slurm_job-PENDING-yellow" alt="slurm job: PENDING">
+</p>
 
-Hello! I'm a Data Scientist with a deep-rooted passion for software engineering, games, and all things computer science.
+---
 
-## About Me
+### `$ cat conf/human/mattia.yaml`
 
-- **Education:** Data Science
-- **Background:** Theoretical Philosophy
+```yaml
+# Hydra config. Instantiate with: python life.py +human=mattia
+defaults:
+  - background: theoretical_philosophy
+  - education: msc_data_science
+  - previously: it_business_analyst
+  - override hydra/launcher: submitit_slurm   # everything ends up on HPC eventually
+  - _self_
 
-## Interests
+name: Mattia Varagnolo
+role: data_scientist
+employer: fbk/dsip            # Fondazione Bruno Kessler, Trento
+specialization: time_series_forecasting
+domains: [weather, climate, hydrology]
+loss: mse                     # usually
+seed: 42
+```
 
-- 📊 Data Science and Analytics
-- 💻 Software Engineering
-- 🧠 Artificial Intelligence and Machine Learning
+### 🔮 Things I'm forecasting
 
-## Journey So Far
+| | Domain | What's going on |
+|---|---|---|
+| 🌊 | Hydrology | Water-level prediction and anomaly detection for a regional hydrological service, on live sensor data |
+| 🌬️ | Numerical weather | Deep learning post-processing of forecast output |
+| 🌩️ | Nowcasting | Short-range alerting for the regional weather service, with the FBK team |
+| 🌍 | Climate | Generative models for downscaling, on large Zarr archives and many GPUs |
+| 🌾 | Agriculture | Crop yield forecasting across several regions, PyTorch + Hydra |
 
-My journey began with a foundation in theoretical philosophy, exploring the intricacies of abstract ideas and critical thinking. Over time, my curiosity led me to the dynamic fields of Data Science, where each day is a challenge and neural networks fights to achieve the best metrics in order to bring us towards the future.
+And on the non-forecasting days: LLM systems, mostly RAG pipelines and evaluation. Someone has to write the grant applications.
 
-Now, as a Data Scientist, I'm delving into the fascinating world of data, analytics, and artificial intelligence. I am passionate about leveraging data to derive meaningful insights and contribute to the advancement of AI.
+### 🛠️ Open source
 
-## Let's Connect!
+- **[MLCast](https://github.com/mlcast-community)**: contributor to the community framework for ML weather nowcasting, born in the EUMETNET E-AI programme
+- **TSViz** 🚧: a time series visualization engine with weather modules and a core for classical ML on everyday time series
 
-I'm always eager to connect with like-minded individuals, share knowledge, and collaborate on exciting projects. Whether it's discussing the latest advancements in AI, swapping game development ideas, or diving into philosophical musings, let's engage in meaningful conversations.
+### 📦 `import`s
 
-Feel free to reach out and connect—I look forward to exploring the intersections of philosophy, technology, and data with you! 🌐✨
+```python
+import torch
+import lightning as L
+import hydra
+import xarray as xr, zarr, dask, ray
+import mlflow
+from langgraph.graph import StateGraph   # for the non-forecasting days
 
-## Contact Me
+# deployed via: Docker, Kubernetes, GCP, GitHub Actions
+# trained on:   whatever Slurm gives me
+```
 
-- 📧 Email: mattia.varagnolo@gmail.com
-- 💼 LinkedIn: [Mattia Varagnolo](https://www.linkedin.com/in/mattiavaragnolo)
+### 🎓 Teaching
 
-Thanks for stopping by, and let's embark on this exciting journey of learning and discovery together! 🚀✨
+- Lecture on training deep learning models on HPC at FBK's AI for Weather and Climate School
+- Team lead and mentor at WebValley, FBK's summer school for young data scientists
+
+### 🎿 When the GPUs are busy
+
+Skiing · motorcycle · games · still arguing about philosophy
+
+### 📡 `ping`
+
+[LinkedIn](https://www.linkedin.com/in/mattiavaragnolo) · [mattia.varagnolo@gmail.com](mailto:mattia.varagnolo@gmail.com)
+
+<p align="center"><sub>Forecast for this README: 90% chance of being outdated by 2028.</sub></p>

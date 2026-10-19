@@ -48,7 +48,6 @@ And on the non-forecasting days: LLM systems, mostly RAG pipelines and evaluatio
 ### 🛠️ Open source
 
 - **[MLCast](https://github.com/mlcast-community)**: contributor to the community framework for ML weather nowcasting, born in the EUMETNET E-AI programme
-- **TSViz** 🚧: a time series visualization engine with weather modules and a core for classical ML on everyday time series
 
 ### 📦 `import`s
 
